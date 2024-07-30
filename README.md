@@ -40,6 +40,6 @@ Attribute Information:
  22. horsepower:               continuous from 48 to 288.
  23. peak-rpm:                 continuous from 4150 to 6600.
  24. city-mpg:                 continuous from 13 to 49.
- 25. highway-mpg:              continuous from 16 to 54.
-Target:
+ 25. highway-mpg:              continuous from 16 to 54.\
+Target:\
  26. price:                    continuous from 5118 to 45400.
